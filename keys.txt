@@ -1,3 +1,4 @@
+#NOTE permanent 
 968C5,12345678,active
 4BE7D,336309890,active
 7E35F,0,active
@@ -8,3 +9,17 @@ D2E79,0,active
 63AC7,0,active
 C2F38,0,active
 94BEE,0,active
+CA54E,0,active
+DC1A2,0,active
+
+#NOTE 30d
+E485B,0,active
+5952C,0,active
+792CC,0,active
+CE1E3,0,active
+CA67E,0,active
+249BA,0,active
+3AAC5,0,active
+62EE4,0,active
+5F112,0,active
+B2922,0,active
