@@ -1,3 +1,6 @@
+#NOTE my self
+B548F,415757341,active
+
 #NOTE permanent 
 968C5,12345678,active
 4BE7D,336309890,active
