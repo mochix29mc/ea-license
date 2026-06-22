@@ -18,7 +18,10 @@ E73E6,52896943,active
 BFCBF,167068928,active
 4B32E,153027581,active
 953EE,413928781,active
-3F51F,0,active
+3F51F,415929196,active
+C41B1,0,active
+5DBC6,0,active
+6B843,0,active
 
 #NOTE 30d
 
